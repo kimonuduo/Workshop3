@@ -1,0 +1,36 @@
+.navbar-form{
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+
+.tw-search{
+   border-radius: 21px 21px 21px 21px;
+}
+.navbar-left{
+  margin-left: 0px;
+}
+
+.navbar-header{
+  width: 100%
+}
+
+.tw-body{
+  broder: 1px solid black;
+}
+
+body {
+padding-top: 60px;
+}
+
+.btn-group-1{
+  padding-left: 20px;
+}
+
+.body-panel hr{
+  margin-top: 15px;
+  margin-bottom: 15px;
+  /* The color of `hr` is set by its top border color.
+  Yeah, it's weird. */
+  border-top: 1px solid lightgray;
+  }
+}
